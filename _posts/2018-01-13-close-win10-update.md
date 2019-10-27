@@ -12,10 +12,10 @@ author: SnakeSon
 
 ## 前言
 
-因为自己的电脑装了双系统（win10 跟Ubuntu16.04），在win10下，有时候每次关机的时候都说要进行更新后进行关机，就是自动更新功能，现在的选项中没有关闭自动更新的选项了，这是一个bug，微软要强制更新。
-
-我就忍受不了自动更新，会拉取网络，影响我们的上网体验，但是我们不要他自动更新，那怎么办呢，其实还是有解决方法的，下面就介绍怎么关闭自动更新功能！（ps：百度有些人写的其实是win8的自动更新，根本就不是win10的，我这个才是win10的处理方法）希望能帮到你们。
-
+wwwwwwwwwwwwwwwwwwww
+ssssssssssssssssssss
+dddddddddddddddddddd
+aaaaaaaaaaaaaaaaaaaa
 ## 操作步骤
 
 1 右键点击左下角微软按钮，找到“运行”   也可用键盘的win+R     

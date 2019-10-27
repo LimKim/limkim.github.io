@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "win10 关闭更新"
-categories: win10
+categories: win100
 tags:  win10 工具软件  
 author: limkim
 ---

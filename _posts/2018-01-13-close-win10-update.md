@@ -3,11 +3,11 @@ layout: post
 title:  "win10 关闭更新"
 categories: win10
 tags:  win10 工具软件  
-author: SnakeSon
+author: limkim
 ---
 
-// * content
-// {:toc}
+* content
+{:toc}
 
 ### fdfs
 sfgs

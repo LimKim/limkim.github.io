@@ -7,7 +7,7 @@
 
 # Site settings
 title: 杨一帆's blog
-brief-intro: Android and Python Coder
+brief-intro: NLP Learner
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://limkim.github.io" # the base hostname & protocol for your site
 
